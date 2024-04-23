@@ -1,0 +1,41 @@
+PS C:\Users\LENOVO\OneDrive\vsc\cse_111> python -m pip install --user --upgrade pip setuptools wheel
+Requirement already satisfied: pip in c:\program files\windowsapps\pythonsoftwarefoundation.python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\lib\site-packages (23.2.1)
+Requirement already satisfied: setuptools in c:\program files\windowsapps\pythonsoftwarefoundation.python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\lib\site-packages (65.5.0)
+Collecting setuptools
+  Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000002798189B8D0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000002798189FBD0>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000002798189C350>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000002798189D910>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000002798189F110>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/bb/26/7945080113158354380a12ce26873dd6c1ebd88d47f5bc24e2c5bb38c16a/setuptools-68.2.2-py3-none-any.whl.metadata
+  Downloading setuptools-68.2.2-py3-none-any.whl.metadata (6.3 kB)
+Collecting wheel
+  Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/b8/8b/31273bf66016be6ad22bb7345c37ff350276cfd46e389a0c2ac5da9d9073/wheel-0.41.2-py3-none-any.whl.metadata
+  Downloading wheel-0.41.2-py3-none-any.whl.metadata (2.2 kB)
+Downloading setuptools-68.2.2-py3-none-any.whl (807 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 807.9/807.9 kB 6.8 kB/s eta 0:00:00
+Downloading wheel-0.41.2-py3-none-any.whl (64 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 64.8/64.8 kB 3.7 kB/s eta 0:00:00
+Installing collected packages: wheel, setuptools
+  WARNING: The script wheel.exe is installed in 'C:\Users\LENOVO\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed setuptools-68.2.2 wheel-0.41.2
+PS C:\Users\LENOVO\OneDrive\vsc\cse_111> python -m pip install --user pytest
+Collecting pytest
+  Obtaining dependency information for pytest from https://files.pythonhosted.org/packages/df/d0/e192c4275aecabf74faa1aacd75ef700091913236ec78b1a98f62a2412ee/pytest-7.4.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000022B2A3D7650>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/df/d0/e192c4275aecabf74faa1aacd75ef700091913236ec78b1a98f62a2412ee/pytest-7.4.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000022B2A3DD210>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/df/d0/e192c4275aecabf74faa1aacd75ef700091913236ec78b1a98f62a2412ee/pytest-7.4.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000022B2A3DDF10>: Failed to establish a new connection: [Errno 11002] getaddrinfo failed')': /packages/df/d0/e192c4275aecabf74faa1aacd75ef700091913236ec78b1a98f62a2412ee/pytest-7.4.2-py3-none-any.whl.metadata
+  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000022B2A3DCC90>: F(23.1)
+Collecting pluggy<2.0,>=0.12 (from pytest)
+  Obtaining dependency information for pluggy<2.0,>=0.12 from https://files.pythonhosted.org/packages/05/b8/42ed91898d4784546c5f06c60506400548db3f7a4b3fb441cba4e5c17952/pluggy-1.3.0-py3-none-any.whlundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from pytest) (23.1).metadata
+  Downloading pluggy-1.3.0-py3-none-any.whl.metadata (4.3 kB)                                      es/05/b8/42ed91898d4784546c5f06c60506400548db3f7a4b3fb441cba4e5c17952/pluggy-1.3.0-py3-none-any.whl.metadata
+Requirement already satisfied: colorama in c:\users\lenovo\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from pytest) (ndation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from pytest) (0.4.6)0.4.6)
+Downloading pytest-7.4.2-py3-none-any.whl (324 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 324.5/324.5 kB 10.6 kB/s eta 0:00:00
+Downloading pluggy-1.3.0-py3-none-any.whl (18 kB)
+Installing collected packages: pluggy, iniconfig, pytest                                           ackages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts' which is not on
+  WARNING: The scripts py.test.exe and pytest.exe are installed in 'C:\Users\LENOVO\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scriscript-location.pts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed iniconfig-2.0.0 pluggy-1.3.0 pytest-7.4.2
+PS C:\Users\LENOVO\OneDrive\vsc\cse_111>

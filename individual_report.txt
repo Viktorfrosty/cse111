@@ -1,0 +1,37 @@
+
+Call Number: 233092121
+Unit ID: 82
+Incident Number: 23149653
+Call Type: Medical Incident
+Call Date: 11/05/2023
+Watch Date: 11/05/2023
+Received Date Time: 11/05/2023 03:34:41 PM
+Entry Date Time: 11/05/2023 03:36:56 PM
+Dispatch Date Time: 11/05/2023 03:37:52 PM
+Response Date Time: 11/05/2023 03:37:55 PM
+On Scene Date Time: 11/05/2023 03:48:44 PM
+Transport Date Time: 11/05/2023 03:57:34 PM
+Hospital Date Time: 11/05/2023 04:23:43 PM
+Call Final Disposition: Code 2 Transport
+Available Date Time: 11/05/2023 04:54:00 PM
+Adress: 3100 Block of MISSION ST
+City: San Francisco
+Zip Code of the Incident: 94110
+Battalion: B06
+Station Area: 11
+Box: 5624
+Original Priority: 2
+Priority: 2
+Final Priority: 2
+ALS Unit: true
+Call Type Group: Non Life-threatening
+Number of Alarms: 1
+Unit Type: MEDIC
+Unit Sequence in Call Dispatch: 1
+Fire Prevention District: 6
+Supervisor District: 9
+Neighborhoods Analysis Boundaries: Bernal Heights
+Row ID: 233092121-82
+Case Location: POINT (-122.4186097191018 37.747445307149704)
+Data Loaded at: 11/30/2023 09:35:04 AM
+Analysis Neighborhoods: 2
